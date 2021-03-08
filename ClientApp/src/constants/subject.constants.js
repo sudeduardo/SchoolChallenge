@@ -1,0 +1,5 @@
+export const SET_SUBJECTS =  "SET_SUBJECTS";
+export const LOADING_SUBJECTS = "LOADING_SUBJECTS";
+export const ADD_SUBJECT = "ADD_SUBJECT";
+export const DELETE_SUBJECT = "DELETE_SUBJECT";
+export const GET_SUBJECT = "GET_SUBJECT";
